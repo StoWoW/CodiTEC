@@ -1,0 +1,10 @@
+c:\users\tecsup\source\repos\EJ17\EJ17\bin\Debug\netcoreapp2.1\EJ17.deps.json
+c:\users\tecsup\source\repos\EJ17\EJ17\bin\Debug\netcoreapp2.1\EJ17.runtimeconfig.json
+c:\users\tecsup\source\repos\EJ17\EJ17\bin\Debug\netcoreapp2.1\EJ17.runtimeconfig.dev.json
+c:\users\tecsup\source\repos\EJ17\EJ17\bin\Debug\netcoreapp2.1\EJ17.dll
+c:\users\tecsup\source\repos\EJ17\EJ17\bin\Debug\netcoreapp2.1\EJ17.pdb
+c:\users\tecsup\source\repos\EJ17\EJ17\obj\Debug\netcoreapp2.1\EJ17.csproj.CoreCompileInputs.cache
+c:\users\tecsup\source\repos\EJ17\EJ17\obj\Debug\netcoreapp2.1\EJ17.AssemblyInfoInputs.cache
+c:\users\tecsup\source\repos\EJ17\EJ17\obj\Debug\netcoreapp2.1\EJ17.AssemblyInfo.cs
+c:\users\tecsup\source\repos\EJ17\EJ17\obj\Debug\netcoreapp2.1\EJ17.dll
+c:\users\tecsup\source\repos\EJ17\EJ17\obj\Debug\netcoreapp2.1\EJ17.pdb
